@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpenugonda" alt="pranavpenugonda" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I speaks about **HTML, CSS, JS, BOOTSTRAP, REACT.JS, SQLITE, C++, PYTHON, DATA STRUCTURES AND ALGORITHMS, COMPETITIVE PROGRAMMING**
 
-- 💬 Ask me about **react, node, express, sqlite**
+- 💬 Ask me about **PROGRAMMING AND WEB DEVELOPMENT**
 
 - 📫 How to reach me **pranavpenugonda@gmail.com**
 
